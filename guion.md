@@ -48,17 +48,20 @@ Dayana: "¿Qué cambia para las personas?, el profesional en lenguas deja de com
 Mercadeo y Estrategia Comercial <br>
 
 Tomás:
-1.ª Vapor <br>
+1. Vapor <br>
 El mercadeo aún no existía como una profesión, se empezó a producir mucho más asi que surgió la necesidad de encontrar personas interesadas en comprar esos productos.<br>
-2.ª Electricidad<br>
+2. Electricidad<br>
 Apareció la publicidad masiva y las empresas empezaron a competir por la atención, gracias a la producción en masa empezaron a aparecer periódicos y carteles para convencer a los consumidores.<br>
-3.ª Electrónica <br>
+3. Electrónica <br>
 El mercadeo empieza a apoyarse con la tecnología, los computadores y el internet permiten guardar información y poder conocer mejor al consumidor y comunicarse con ellos de nuevas formas.<br>
-
-4.ª Digitales<br>
+4. Digitales <br>
 Actualmente se puede conocer mejor al consumidor, las redes sociales, los smartphones y el Big Data permiten saber qué busca, qué le interesa y cómo responde a una campaña.<br>
-
-
+5. Quinta Revolución Industrial <br>
+La inteligencia artificial empieza a transformar el mercadeo, va a poder permitir analizar datos de mejor manera, identificar patrones y ayudar a crear campañas mucho más rápido.<br>
+6. ¿Qué cambia? <br>
+El profesional deja algunas tareas repetitivas a la IA y se enfoca más en crear estrategias, entender la información y tomar decisiones.<br>
+7. No se le delega a la IA
+Entender completamente las emociones, el contexto y la cultura de los consumidores, esto porque las decisiones estratégicas siguen necesitando el criterio humano.<br>
 
 
 
